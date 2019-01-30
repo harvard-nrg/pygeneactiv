@@ -1,6 +1,6 @@
 __title__ = 'pygeneactiv'
 __description__ = 'GENEActiv library'
 __url__ = 'https://github.com/harvard-nrg/pygeneactiv'
-__version__ = '0.1.1'
+__version__ = '0.2'
 __author__ = 'Neuroinformatics Research Group'
 __author_email__ = 'info@neuroinfo.org'

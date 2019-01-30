@@ -64,7 +64,7 @@ class Reader(object):
     def get_data(self, chunksize=100, parsedates=False):
         ''' iterate over data in user-defined chunks i'''
         parser = None
-        if parse_dates:
+        if parsedates:
             parser = lambda x: pandas.to_datetime(x, format='%Y-%m-%d %H:%M:%S:%f')
         df = pandas.read_csv(self.f, 
                              skiprows=self.num_header_rows,
