@@ -1,5 +1,7 @@
 pygeneactiv
 ===========
+[![Build Status](https://travis-ci.org/harvard-nrg/pygeneactiv.svg?branch=master)](https://travis-ci.org/harvard-nrg/pygeneactiv)
+
 pygeneactiv is a python package for reading [GENEActiv](https://www.activinsights.com/products/geneactiv/) 
 watch data. Here's a simple example
 

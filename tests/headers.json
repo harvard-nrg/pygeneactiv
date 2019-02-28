@@ -1,0 +1,74 @@
+{
+  "Time Zone": "GMT +01",
+  "Measurement Frequency": "100 Hz",
+  "Device Location Code": "right wrist",
+  "Device Type": "GENEActiv",
+  "Height": 178,
+  "Application name & version ": "GENEActiv PC Software 2.1",
+  "Sex": null,
+  "Device Unique Serial Code": 11152,
+  "Exercise Type": null,
+  "Study Code": null,
+  "Date of Birth": "01/01/1900",
+  "Start Time": "2011-10-09 10:20:00:000",
+  "Study Centre": null,
+  "Subject Code": "Example",
+  "Extract Time": "2011-10-9 11:24:8:453",
+  "Extract Operator ID": null,
+  "Subject Notes": null,
+  "Extract Notes": null,
+  "Device Firmware Version": "Ver1.30 date 05Aug11",
+  "Device Model": 1.1,
+  "sensors": [
+    {
+      "Units": "g",
+      "Range": "-8 to 8",
+      "Resolution": 0.0039,
+      "Sensor type": "MEMS accelerometer x-axis",
+      "Additional information": null
+    },
+    {
+      "Units": "g",
+      "Range": "-8 to 8",
+      "Resolution": 0.0039,
+      "Sensor type": "MEMS accelerometer y-axis",
+      "Additional information": null
+    },
+    {
+      "Units": "g",
+      "Range": "-8 to 8",
+      "Resolution": 0.0039,
+      "Sensor type": "MEMS accelerometer z-axis",
+      "Additional information": null
+    },
+    {
+      "Units": "lux",
+      "Range": "0 to 5000",
+      "Resolution": 5,
+      "Sensor type": "Lux Photodiode 400nm - 1100nm",
+      "Additional information": null
+    },
+    {
+      "Units": null,
+      "Range": "1 or 0",
+      "Resolution": null,
+      "Sensor type": "User button event marker",
+      "Additional information": "1=pressed"
+    },
+    {
+      "Units": "deg. C",
+      "Range": "0 to 70",
+      "Resolution": 0.1,
+      "Sensor type": "Linear active thermistor",
+      "Additional information": null
+    }
+  ],
+  "Config Operator ID": null,
+  "Weight": 67,
+  "Calibration Date": "2011-09-07 19:20:18:000",
+  "Last measurement": null,
+  "Handedness Code": "right",
+  "Config Time": "2011-10-09 10:16:39:671:",
+  "Config Notes": "Notes",
+  "Investigator ID": null
+}

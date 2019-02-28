@@ -9,6 +9,7 @@ requires = [
 
 test_requirements = [
     'pytest',
+    'simplejson'
 ]
 
 about = dict()

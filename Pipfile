@@ -5,8 +5,8 @@ name = "pypi"
 
 [dev-packages]
 pytest = "*"
+simplejson = "*"
 
 [packages]
 pandas = "*"
 pygeneactiv = {path = ".", editable = true}
-
